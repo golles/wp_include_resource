@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Include Resource
-Plugin URI:  https://www.github.com/golles
+Plugin URI:  https://github.com/golles/wp_include_resource
 Description: Simply include a resource into your WordPress content. Eg. a custom PHP script or a web page.
 Version:     1.0
 Author:      golles
